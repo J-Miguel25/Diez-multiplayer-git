@@ -5,3 +5,5 @@ Favorite Color: Black
 Favorite Foods: 
 1. Adobo
 2. Menudo
+
+Qoute: One apple a day, keeps the doctor away.
