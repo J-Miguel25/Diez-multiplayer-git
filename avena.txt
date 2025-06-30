@@ -1,2 +1,6 @@
-Everton Avena
-Green Adobo
+Name : Everton Avena
+Color: Green 
+Food: Adobo, Sinigang
+
+
+
